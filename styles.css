@@ -3,6 +3,10 @@ body {
   color: #ccc;
 }
 
+.bump-right {
+  margin-left: 1em;
+}
+
 nav a {
   color: #1F1E22;
 }
