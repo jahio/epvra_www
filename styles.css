@@ -1,3 +1,33 @@
 body {
+  background-color: #1F1E22;
+  color: #ccc;
+}
+
+nav a {
+  color: #1F1E22;
+}
+
+nav a:hover {
+  color: #1C2646;
+}
+
+.white-bkg {
   background-color: #fff;
+  color: #000;
+}
+
+.indent-margin {
+  padding: 2em;
+}
+
+.footer {
+  font-size: 80%;
+}
+
+.footer a {
+  color: #CDD4ED;
+}
+
+.footer a:hover {
+  color: #fff;
 }
